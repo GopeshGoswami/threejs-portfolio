@@ -24,7 +24,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import divya from "./Divya.jpeg";
-import nishant from "./nishant.jpeg";
+import nishant from "./Nishant.jpeg";
 import dirums from "./company/dirums.png";
 import imumz from "./company/imumz.png";
 
